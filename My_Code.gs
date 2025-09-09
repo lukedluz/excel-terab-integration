@@ -1,8 +1,8 @@
 /**** CONFIG ****/
 const CFG = {
   YEAR: 2025,
-  SC_ID: "1BGBBue-eVr-MJ7QMs6hdrTYzgU5XTDndh89Mf07fPxU",     // ID da planilha SC
-  ES_ID: "12awAwfuy89RVhBGjbxw46D_gyPjhgHmthArsW2nZjow",     // ID da planilha ES
+  SC_ID: "",     // ID da planilha SC
+  ES_ID: "",     // ID da planilha ES
   ES_TAB_CANDIDATES: ["Devoluções","Devolucoes","DEVOLUÇÕES","DEVOLUCOES"],
   HEADERS: ["Estoque","Data","Ticket","Pedido/NF","Produto","Analista","Motivo","Valor","Status"],
   // Regras de status a manter
